@@ -1,7 +1,7 @@
 {
     "type": "module",
     "license": "MIT",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "name": "weekly-fifty",
     "author": "Reuben Roessler",
     "repository": "rroessler/npm.weekly-fifty",
